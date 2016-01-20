@@ -33,7 +33,7 @@
   "dependencies": {
     "aws-sdk": "^2.2.31",
     "file-type": "^3.4.0",
-    "got": "^6.1.0",
+    "got": "^5.4.0",
     "object-assign": "^4.0.1",
     "uuid": "^2.0.1"
   },
