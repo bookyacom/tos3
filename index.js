@@ -30,7 +30,7 @@ module.exports = function(config){
     });
 
     return got(url, { encoding: null })
-      .then(res => {
+      .then(function(res) {
         let chuck = res.body;
         assert(chuck, 'no return value from URL');
 
