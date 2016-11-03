@@ -1,4 +1,4 @@
-# tos3 [![Build Status](https://travis-ci.org/bookyacom/tos3.svg?branch=master)](https://travis-ci.org/bookyacom/tos3)
+# tos3 [![Build Status](https://travis-ci.org/bookyacom/tos3.svg?branch=master)](https://travis-ci.org/bookyacom/tos3) [![Dependency Status](https://gemnasium.com/badges/github.com/bookyacom/tos3.svg)](https://gemnasium.com/github.com/bookyacom/tos3)
 > upload to s3 from external GET url
 
 ## Install
